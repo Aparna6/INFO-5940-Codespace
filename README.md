@@ -23,7 +23,7 @@ Version of pandas changed from "pandas==2" to "pandas" in `requirements.txt` due
 - Accurate answers using retrieved context from uploaded files only
 - Conversational interface with user-friendly UI 
 
-## General steps to Fork the repository and run the code in your Codespace
+## ⚙️ General steps to Fork the repository and run the code in your Codespace
 
 ### Step 1: Fork this repository 
 1. Click the **Fork** button (top right of this page).
