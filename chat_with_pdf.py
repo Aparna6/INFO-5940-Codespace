@@ -94,7 +94,7 @@ if uploaded_files:
         #Define system prompt and get response from OpenAI
         system_prompt = """
         You are an assistant for question-answering tasks. Use only the following pieces of retrieved context to answer the question. 
-        If you don't know the answer, just say that you don't know. Use three sentences maximum and keep the answer concise.
+        If you don't know the answer, just say "I cannot find the answer to this in the provided documents". Use three sentences maximum and keep the answer concise.
         
         Context:{file_content}
         
