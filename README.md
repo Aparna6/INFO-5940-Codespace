@@ -44,4 +44,5 @@ Once the Codespace is ready:
 3. Run the code block to check your setup. 
 
 ---
-                                                🌸 Made with ❤️ by Aparna 🌸
+
+<p align="center">🌸 Made with ❤️ by Aparna 🌸</p>
